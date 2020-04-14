@@ -31,4 +31,4 @@ The sample application is running on http://localhost:9000
 6. Call the `POST` **Call spi-sample with token** endpoint. Alternatively, edit the request body and update the `date` to any valid date. This will call the implementation of the [`POST` `/day-of-week`](https://developer.fusionfabric.cloud/api/spi-sample-v1-0504c686-15d4-4002-bc11-8c1791807fa4/docs#operation/dayOfWeek) endpoint.  
 
 
-Ths sample application is released under the MIT License. See [LICENSE](LICENSE) for details.
+This sample application is released under the MIT License. See [LICENSE](LICENSE) for details.
