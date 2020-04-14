@@ -21,7 +21,7 @@ The sample application is running on http://localhost:9000
 
 **To call the endpoint implemented by this sample**
 
-1. Register an application on [**Fusion**Fabric.cloud Developer Portal](https://developer.fusionfabric.cloud), and include the [SPI Sample](https://developer.fusionfabric.cloud/api/spi-sample-v1-0504c686-15d4-4002-bc11-8c1791807fa4/docs) SPI. Use `*` as the reply URL. Use any valid URL for the base URL, as you will not use it during working with this sample.
+1. Register an application on [**Fusion**Fabric.cloud Developer Portal](https://developer.fusionfabric.cloud), and include the [SPI Sample](https://developer.fusionfabric.cloud/api/spi-sample-v1-0504c686-15d4-4002-bc11-8c1791807fa4/docs) SPI. Use any valid URLs for the reply URL and the base URL, as you will not use them during working with this sample.
 2. Generate a secret key for the B2B channel. See [FusionCreator Documentation](https://developer.fusionfabric.cloud/documentation/join-my-dashboard.html#secret-key) for details.
 3. In Postman, import the environment file and the collection provided in the **postman** directory.
 4. Edit the Postman environment and provide the values for:
