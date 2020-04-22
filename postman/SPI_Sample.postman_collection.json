@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "82cde520-ee40-43c9-aa4e-51572acdd921",
-		"name": "SPI Sample",
+		"name": "Sample SPI",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -82,7 +82,7 @@
 			"response": []
 		},
 		{
-			"name": "Call spi-sample without token",
+			"name": "Call sample-spi without token",
 			"event": [
 				{
 					"listen": "test",
@@ -129,12 +129,13 @@
 					}
 				},
 				"url": {
-					"raw": "{{spi-sample-url}}/spi-sample/v1/day-of-week",
+					"raw": "{{sample-spi-url}}/sample/spi/v1/day-of-week",
 					"host": [
-						"{{spi-sample-url}}"
+						"{{sample-spi-url}}"
 					],
 					"path": [
-						"spi-sample",
+						"sample",
+						"spi",
 						"v1",
 						"day-of-week"
 					]
@@ -143,7 +144,7 @@
 			"response": []
 		},
 		{
-			"name": "Call spi-sample with token",
+			"name": "Call sample-spi with token",
 			"event": [
 				{
 					"listen": "test",
@@ -209,12 +210,13 @@
 					}
 				},
 				"url": {
-					"raw": "{{spi-sample-url}}/spi-sample/v1/day-of-week",
+					"raw": "{{sample-spi-url}}/sample/spi/v1/day-of-week",
 					"host": [
-						"{{spi-sample-url}}"
+						"{{sample-spi-url}}"
 					],
 					"path": [
-						"spi-sample",
+						"sample",
+						"spi",
 						"v1",
 						"day-of-week"
 					]
