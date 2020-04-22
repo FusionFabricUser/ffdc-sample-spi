@@ -16,7 +16,7 @@ import org.springframework.security.oauth2.jwt.*;
 @EnableWebSecurity
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
-    private static final String audience = "spi-sample-v1-0504c686-15d4-4002-bc11-8c1791807fa4";
+    private static final String audience = "sample-spi-v1-0504c686-15d4-4002-bc11-8c1791807fa4";
 
     @Value("${spring.security.oauth2.resourceserver.jwt.issuer-uri}")
     private String issuer;
