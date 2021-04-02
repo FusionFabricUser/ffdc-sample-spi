@@ -37,3 +37,5 @@ The sample application is running on http://localhost:9000
 >   + The **without token** one does not store the access token in the `APIM_token` collection variable, and although you reach the target, you receive a `403 Forbidden` response, which is the expected response.
 
 This sample application is released under the MIT License. See [LICENSE](LICENSE) for details.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B24247%2Fgithub.com%2Ffusionfabric%2Fffdc-sample-spi.svg?type=shield)](https://app.fossa.com/projects/custom%2B24247%2Fgithub.com%2Ffusionfabric%2Fffdc-sample-spi?ref=badge_shield)
