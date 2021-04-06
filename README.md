@@ -38,4 +38,6 @@ The sample application is running on http://localhost:9000
 
 This sample application is released under the MIT License. See [LICENSE](LICENSE) for details.
 
-[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B24247%2Fgithub.com%2Ffusionfabric%2Fffdc-sample-spi.svg?type=shield)](https://app.fossa.com/projects/custom%2B24247%2Fgithub.com%2Ffusionfabric%2Fffdc-sample-spi?ref=badge_shield)
+
+
+![example workflow](https://github.com/fusionfabric/ffdc-sample-spi/actions/workflows/superlinter.yml/badge.svg) [![FOSSA Status](https://app.fossa.com/api/projects/custom%2B24247%2Fgithub.com%2Ffusionfabric%2Fffdc-sample-spi.svg?type=shield)](https://app.fossa.com/projects/custom%2B24247%2Fgithub.com%2Ffusionfabric%2Fffdc-sample-spi?ref=badge_shield) [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
